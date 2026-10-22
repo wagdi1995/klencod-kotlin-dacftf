@@ -11,7 +11,6 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import android.widget.Toast
 import android.graphics.drawable.GradientDrawable
-import javax.script.ScriptEngineManager
 
 class MainActivity : Activity() {
 
